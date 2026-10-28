@@ -23,13 +23,9 @@ Forward traversal (`next`):
 
 ## Installation
 
-Clone this repository into your Yazi plugins directory:
+Manual install
 
-```sh
-git clone https://github.com/fiendforge/sibldir.yazi.git ~/.config/yazi/plugins/sibldir.yazi
-```
-
-If installing manually, place main.lua in ~/.config/yazi/plugins/sibldir.yazi/
+Place main.lua in ~/.config/yazi/plugins/sibldir.yazi/
 
 ## Usage
 
